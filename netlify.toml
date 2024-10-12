@@ -1,5 +1,5 @@
 [build]
-command = "hugo --gc --minify"
+command = "hugo --gc --minify --verbose"
 
 [context.production.environment]
 HUGO_VERSION = "0.96.0"
