@@ -26,21 +26,21 @@ defaultContentLanguage: en
 sectionPagesMenu: main
 languages:
   en:
-    title: Algorithmica
+    title: PolyHub
     baseURL: https://en.algorithmica.org
     contentDir: content/english
     languageName: English
     languageCode: "en-us"
     weight: 1
   ru:
-    title: Алгоритмика
+    title: PolyHub
     baseURL: https://ru.algorithmica.org
     contentDir: content/russian
     languageName: Русский
     languageCode: "ru-ru"
-    weight: 2
+    weight: 1
 params:
-  repo: "https://github.com/algorithmica-org/algorithmica"
+  repo: "https://github.com/ShaneW0lsh/PolyHub"
   reveal_hugo:
     #theme: white
     slide_number: true
