@@ -1,4 +1,4 @@
-baseURL: "polyhub.netlify.app"
+baseURL: "http://localhost:1313"
 theme:
 - algorithmica
 - reveal-hugo
